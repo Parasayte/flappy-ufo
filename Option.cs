@@ -12,8 +12,8 @@ namespace flapp
         public static  int Jumphigh=3;
         private int _reversetime = 50;
         public static int Speed=5;
-       private bool JumpingUp;
-       private bool JumpingDown;
+       private bool _jumpingUp;
+       private bool _jumpingDown;
         public Option()
         {
             InitializeComponent();
@@ -73,20 +73,20 @@ namespace flapp
         private void Game_loop(object sender, ElapsedEventArgs e)
         {
             _time++;
-            if(!JumpingUp||!JumpingDown)
+            if(!_jumpingUp||!_jumpingDown)
                 Gravity(player_pictureBox);
           
 
         }
         private void Jump_button(object sender, EventArgs e)
         { 
-            JumpingUp = true;
+            _jumpingUp = true;
             _reversetime = 15;
             _time = 0;
         }
         private void Land_button(object sender, EventArgs e)
         {
-            JumpingDown = true;
+            _jumpingDown = true;
             _reversetime = 15;
             _time = 0;
           
@@ -137,7 +137,7 @@ namespace flapp
 
                 if (_reversetime == 0)
                 {
-                    JumpingUp = false;
+                    _jumpingUp = false;
                 }
                 if (player.Location.Y < 1)
                 {
@@ -162,7 +162,7 @@ namespace flapp
 
                 if (_reversetime == 0)
                 {
-                    JumpingDown = false;
+                    _jumpingDown = false;
                 }
                 if (player.Location.Y < 1)
                 {
@@ -176,12 +176,12 @@ namespace flapp
         }
         private void timer2_Elapsed(object sender, ElapsedEventArgs e)
         {
-            if (JumpingUp)
+            if (_jumpingUp)
             {
                 JumpUp(player_pictureBox);
             }
 
-            if (JumpingDown)
+            if (_jumpingDown)
             {
                 JumpDown(player_pictureBox);
             }
