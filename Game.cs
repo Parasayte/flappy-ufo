@@ -22,28 +22,13 @@ namespace flapp
         
         private void Stages()
         {
-            switch (_playerScore)
+            
+            for (int i = 1; i < 100; i++)
             {
-                case 10:
-                    ColumnSpeed += 3;
-                    break;
-                case 20:
-                    ColumnSpeed += 3;
-                    break;
-                case 30:
-                    ColumnSpeed += 3;
-                    break;
-                case 40:
-                    GravityGame ++;
-                    ColumnSpeed += 3;
-                    break;
-                case 50:
-                    GravityGame ++;
-                    ColumnSpeed += 3;
-                    break;
-                case 60:
-                    ColumnSpeed += 3;
-                    break;
+                if (_playerScore == i * 5)
+                {
+                    ColumnSpeed++;
+                }
             }
         }
         private static bool Crashing(PictureBox p,PictureBox c )
