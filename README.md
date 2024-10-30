@@ -1,4 +1,4 @@
-# Flappy UFO ![AGPL License](https://img.shields.io/badge/CSharp-Project-purple)
+# Flappy UFO [![AGPL License](https://img.shields.io/badge/CSharp-Project-purple)](https://learn.microsoft.com/tr-tr/dotnet/csharp/)
 
 
 **Flappy UFO**  
@@ -40,7 +40,7 @@ The **Options** menu lets players adjust gravity settings to their preference:
 
 Fine-tuning gravity settings allows for a highly customizable experience, letting players find the right balance for a smoother or more intense gameplay feel.
 
-## Aseprite   ![Aseprite](https://img.shields.io/badge/-gray?style=flat&logo=aseprite&label=Aseprite)
+## Aseprite   [![Aseprite](https://img.shields.io/badge/-gray?style=flat&logo=aseprite&label=Aseprite)](https://www.aseprite.org/)
 
 All game assets, were created using **Aseprite**.
 
