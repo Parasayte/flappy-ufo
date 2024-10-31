@@ -1,3 +1,13 @@
+![Top Language](https://img.shields.io/github/languages/top/Parasayte/flappy-ufo?color=teal)
+![Repo Size](https://img.shields.io/github/repo-size/Parasayte/flappy-ufo?color=crimson)
+![Last Commit](https://img.shields.io/github/last-commit/Parasayte/flappy-ufo?color=gold)
+![Community](https://img.shields.io/badge/Community-Active-green)
+![Stars](https://img.shields.io/github/stars/Parasayte/flappy-ufo?color=darkblue&style=social)
+
+
+
+
+
 # Flappy UFO [![AGPL License](https://img.shields.io/badge/CSharp-Project-purple)](https://learn.microsoft.com/tr-tr/dotnet/csharp/)
 
 
