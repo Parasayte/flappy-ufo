@@ -1,14 +1,10 @@
-![Top Language](https://img.shields.io/github/languages/top/Parasayte/flappy-ufo?color=teal)
-![Repo Size](https://img.shields.io/github/repo-size/Parasayte/flappy-ufo?color=crimson)
-![Last Commit](https://img.shields.io/github/last-commit/Parasayte/flappy-ufo?color=gold)
-![Community](https://img.shields.io/badge/Community-Active-green)
-![Stars](https://img.shields.io/github/stars/Parasayte/flappy-ufo?color=darkblue&style=social)
+[![Top Language](https://img.shields.io/github/languages/top/Parasayte/flappy-ufo?color=teal&style=plastic)](https://github.com/Parasayte/flappy-ufo)
+[![Repo Size](https://img.shields.io/github/repo-size/Parasayte/flappy-ufo?color=crimson&style=plastic)](https://github.com/Parasayte/flappy-ufo)
+[![Last Commit](https://img.shields.io/github/last-commit/Parasayte/flappy-ufo?color=gold&style=plastic)](https://github.com/Parasayte/flappy-ufo/commits)
+[![Community](https://img.shields.io/badge/Community-Active-green&style=plastic)](https://github.com/Parasayte/flappy-ufo/discussions)
+[![Stars](https://img.shields.io/github/stars/Parasayte/flappy-ufo?color=darkblue)](https://github.com/Parasayte/flappy-ufo/stargazers)
 
-
-
-
-
-# Flappy UFO [![AGPL License](https://img.shields.io/badge/CSharp-Project-purple)](https://learn.microsoft.com/tr-tr/dotnet/csharp/)
+# Flappy UFO [![AGPL License](https://img.shields.io/badge/CSharp-Project-purple?style=plastic)](https://learn.microsoft.com/tr-tr/dotnet/csharp/)
 
 
 **Flappy UFO**  
