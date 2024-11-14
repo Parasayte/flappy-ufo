@@ -129,7 +129,7 @@
             this.game_over.ForeColor = System.Drawing.Color.Maroon;
             this.game_over.Location = new System.Drawing.Point(287, 131);
             this.game_over.Name = "game_over";
-            this.game_over.Size = new System.Drawing.Size(227, 32);
+            this.game_over.Size = new System.Drawing.Size(226, 32);
             this.game_over.TabIndex = 26;
             this.game_over.Text = "Game Over";
             this.game_over.Visible = false;
@@ -155,6 +155,7 @@
             this.player.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.player.TabIndex = 30;
             this.player.TabStop = false;
+            this.player.Click += new System.EventHandler(this.player_Click);
             // 
             // colo_downn
             // 
@@ -217,6 +218,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.timer2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
 
         private System.Windows.Forms.Label label1;

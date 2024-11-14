@@ -245,5 +245,10 @@ namespace flapp
                 JumpDown(player);
             }
         }
+
+        private void player_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
