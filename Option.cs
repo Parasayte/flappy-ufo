@@ -39,7 +39,7 @@ namespace flapp
             {
                 player.Top += _time*Gravity1/5;
             }
-
+ 
             if (player.Location.Y > 350 )
             {
                 player.Location = new Point(player.Location.X, 350);
