@@ -59,7 +59,7 @@
             // 
             this.menu_button.BackColor = System.Drawing.Color.DarkGray;
             this.menu_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.menu_button.Font = new System.Drawing.Font("Azonix", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menu_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menu_button.Location = new System.Drawing.Point(339, 334);
             this.menu_button.Name = "menu_button";
             this.menu_button.Size = new System.Drawing.Size(115, 48);
@@ -85,11 +85,11 @@
             // 
             this.scorelabel.AutoSize = true;
             this.scorelabel.BackColor = System.Drawing.Color.Transparent;
-            this.scorelabel.Font = new System.Drawing.Font("Azonix", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.scorelabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.scorelabel.ForeColor = System.Drawing.SystemColors.ControlDark;
             this.scorelabel.Location = new System.Drawing.Point(12, 9);
             this.scorelabel.Name = "scorelabel";
-            this.scorelabel.Size = new System.Drawing.Size(168, 27);
+            this.scorelabel.Size = new System.Drawing.Size(122, 31);
             this.scorelabel.TabIndex = 25;
             this.scorelabel.Text = "Score : 0";
             // 
@@ -97,7 +97,7 @@
             // 
             this.option_button.BackColor = System.Drawing.Color.DarkGray;
             this.option_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.option_button.Font = new System.Drawing.Font("Azonix", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.option_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.option_button.Location = new System.Drawing.Point(339, 271);
             this.option_button.Name = "option_button";
             this.option_button.Size = new System.Drawing.Size(115, 48);
@@ -111,7 +111,7 @@
             // 
             this.restart_button.BackColor = System.Drawing.Color.DarkGray;
             this.restart_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.restart_button.Font = new System.Drawing.Font("Azonix", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.restart_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.restart_button.Location = new System.Drawing.Point(339, 206);
             this.restart_button.Name = "restart_button";
             this.restart_button.Size = new System.Drawing.Size(115, 48);
@@ -125,18 +125,18 @@
             // 
             this.game_over.AutoSize = true;
             this.game_over.BackColor = System.Drawing.Color.Transparent;
-            this.game_over.Font = new System.Drawing.Font("Azonix", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.game_over.Font = new System.Drawing.Font("Cascadia Code", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.game_over.ForeColor = System.Drawing.Color.Maroon;
-            this.game_over.Location = new System.Drawing.Point(287, 131);
+            this.game_over.Location = new System.Drawing.Point(310, 124);
             this.game_over.Name = "game_over";
-            this.game_over.Size = new System.Drawing.Size(226, 32);
+            this.game_over.Size = new System.Drawing.Size(190, 43);
             this.game_over.TabIndex = 26;
             this.game_over.Text = "Game Over";
             this.game_over.Visible = false;
             // 
             // frames_counter
             // 
-            this.frames_counter.Font = new System.Drawing.Font("Arabic Pixel 2", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.frames_counter.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.frames_counter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.frames_counter.Location = new System.Drawing.Point(12, 36);
             this.frames_counter.Name = "frames_counter";
@@ -178,7 +178,7 @@
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Arabic Pixel 2", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label1.Location = new System.Drawing.Point(12, 62);
             this.label1.Name = "label1";

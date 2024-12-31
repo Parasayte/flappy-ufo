@@ -44,6 +44,7 @@ namespace flapp
             {
                 player.Location = new Point(player.Location.X, 350);
             }
+            
 
             if (Gravity1 == 0)
             {
