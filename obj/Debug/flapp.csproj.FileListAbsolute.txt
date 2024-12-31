@@ -1,0 +1,17 @@
+C:\Users\hougj\Source\Repos\flappy-ufo\bin\Debug\assets\colomn8.png
+C:\Users\hougj\Source\Repos\flappy-ufo\bin\Debug\assets\colomn9.png
+C:\Users\hougj\Source\Repos\flappy-ufo\bin\Debug\assets\player.gif
+C:\Users\hougj\Source\Repos\flappy-ufo\bin\Debug\assets\space2.png
+C:\Users\hougj\Source\Repos\flappy-ufo\bin\Debug\assets\starship.ico
+C:\Users\hougj\Source\Repos\flappy-ufo\bin\Debug\flapp.exe.config
+C:\Users\hougj\Source\Repos\flappy-ufo\bin\Debug\flapp.exe
+C:\Users\hougj\Source\Repos\flappy-ufo\bin\Debug\flapp.pdb
+C:\Users\hougj\Source\Repos\flappy-ufo\obj\Debug\flapp.csproj.AssemblyReference.cache
+C:\Users\hougj\Source\Repos\flappy-ufo\obj\Debug\flapp.Game.resources
+C:\Users\hougj\Source\Repos\flappy-ufo\obj\Debug\flapp.Menu.resources
+C:\Users\hougj\Source\Repos\flappy-ufo\obj\Debug\flapp.Option.resources
+C:\Users\hougj\Source\Repos\flappy-ufo\obj\Debug\flapp.Properties.Resources.resources
+C:\Users\hougj\Source\Repos\flappy-ufo\obj\Debug\flapp.csproj.GenerateResource.cache
+C:\Users\hougj\Source\Repos\flappy-ufo\obj\Debug\flapp.csproj.CoreCompileInputs.cache
+C:\Users\hougj\Source\Repos\flappy-ufo\obj\Debug\flapp.exe
+C:\Users\hougj\Source\Repos\flappy-ufo\obj\Debug\flapp.pdb
